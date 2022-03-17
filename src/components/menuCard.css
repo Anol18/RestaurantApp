@@ -1,0 +1,11 @@
+.card{
+    width: 18rem;
+}
+.btn:hover{
+    background-color: rgb(236, 236, 236);
+
+}
+.btnOrder{
+    border: none;
+    
+}
